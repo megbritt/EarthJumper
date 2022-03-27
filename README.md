@@ -2,5 +2,5 @@
 
 Developed with Unreal Engine 4
 
-![Animation](images/1.gif)
-![Animation 2](images/2.gif)
+![Animation](Images/1.gif)
+![Animation 2](Images/2.gif)
