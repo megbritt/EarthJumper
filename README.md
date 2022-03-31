@@ -14,11 +14,11 @@ Developed with Unreal Engine 4
 
 ## Features
 
-1. User can see character.
-2. User can move character.
-3. User can collect coins and other collectibles.
-4. User can use power-ups.
-5. User can unlock doors.
-6. User can see their score.
-7. User can use checkpoints.
-8. User can complete the game.
+1. Player can see character.
+2. Player can move character.
+3. Player can collect coins and other collectibles.
+4. Player can use power-ups.
+5. Player can unlock doors.
+6. Player can see their score.
+7. Player can use checkpoints.
+8. Player can complete the game.
